@@ -2,32 +2,45 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 91px 0 38px 0;
 }
-
-.formcenter{
+.formcenter {
     text-align: center;
 }
-
 ul {
     list-style-type: none;
 }
-
-.topbar li{
+.topbar li {
     padding-right: 20px;
     font-weight: 100;
     font-size: 14px;
+    opacity: 0.75;
+}
+.topbar a{
+    color: #000;
+    text-decoration: none;
+    
+}
+a {
+    font-family: arial,sans-serif;
 }
 
-
-.topbar a{
-    color: black;
+.footer {
+    display: block;
+    background: gray;
+    
+}
+.footer li{
+    padding-right: 20px;
+    font-weight: 100;
+    font-size: 14px;
+    opacity: 0.75;
+}
+.footer a{
+    color: #000;
     text-decoration: none;
     
 }
 a:hover {
     text-decoration: underline;
-}
-
-a {
-    font-family: arial,sans-serif;
 }
