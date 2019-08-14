@@ -1,0 +1,1 @@
+This is my first basic front-end web dev project folowing The Odin Project's curriculum. This file will be updated with notes and information as I build out the Google homepage.
